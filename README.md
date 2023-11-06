@@ -5,6 +5,7 @@ The code provides details of the methods used.
 
 Ethical considerations:
 Patients and practices are informed of this study and the option available to them to ‘opt-out’ of sharing data. All current research activities using pseudonymised data from the RCGP RSC network of general practices are listed on the RCGP RSC webpage (http://www.rcgp.org.uk/rsc) and practices are informed via the monthly newsletter.
+
 Contributors:
 1.	Simon de Lusignan – Director, guarantor for these data, assisted with clinical knowledge, system design and problem solving.
 2.	Cecilia Okusi – Produced the base data tables and summary counts.
