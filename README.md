@@ -7,8 +7,6 @@ Data were extracted from the Oxford-Royal College of General Practitioners (RCGP
 
 The data sources was Oxford-Royal College of General Practitioners Clinical Information Digital Hub (ORCHID) Trusted Research Environment (TRE). This database contains continuous data from 1st April 2004; with retrospective data going back to the start of computerisation of the practice. 
 
-Primary care sentinel cohort RCGPP RSC practices have twice-weekly incremental and quarterly bulk data extracts of coded data.   The incremental extraction takes the last six weeks data.  This is because event and recording data don’t always match; a diagnosis may not be recorded on the same date as the event (e.g. Pneumonia might be diagnosed when the X-ray result arrives some days after the presentation to general practice).  
-
 Ethical considerations:
 Patients and practices are informed of this study and the option available to them to ‘opt-out’ of sharing data. All current research activities using pseudonymised data from the RCGP RSC network of general practices are listed on the RCGP RSC webpage (http://www.rcgp.org.uk/rsc) and practices are informed via the monthly newsletter.
 
